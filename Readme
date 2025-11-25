@@ -1,82 +1,61 @@
-# ![header](/mnt/data/0719dffe-b49b-4773-8c56-3b26fad33594.png)
+<p align="center">
+  <img src="A_GitHub_profile_README.md_introduces_a_full-stack.png" width="100%" />
+</p>
 
-# 👊 Swed Mhatre — Founder of **Crafta** · Full Stack Developer
+<h1 align="center">👊 Swed Mhatre</h1>
+<h3 align="center">Founder of <b>Crafta</b> • Full Stack Developer</h3>
 
-> Full stack dev who builds products, drinks instant coffee, and codes like it’s a final boss fight.  
-> Founder @ Crafta.
+<br>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=for-the-badge)](https://twitter.com/your_twitter) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_linkedin) 
-[![Mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@domain.com)
-
----
-
-## 🔥 About Me
-- Founder of **Crafta** — building clean, scalable web products.
-- Full Stack: UI → API → infra → devices (Arduino).
-- Always learning: algorithms, system design, a little cyber-shonen energy.
-
----
-
-## 🛠️ Tech Stack
-**Frontend:** HTML · CSS · JavaScript · jQuery · React (optional)  
-**Backend:** Node.js · Express · Java · Python · Flask  
-**Databases:** Firebase · Firestore · MongoDB · MySQL  
-**Cloud / Infra:** AWS · Vercel · Netlify · Docker  
-**Embedded / Hardware:** Arduino · Raspberry Pi  
-**Languages:** C++ · Java · Python · JavaScript · HTML/CSS  
-**Other:** Git · GitHub · CI/CD · Webpack · npm
-
----
-
-## 📦 What I build
-- Full-stack web apps (React / Node / Firebase)  
-- Developer tools and utilities for creators  
-- Firmware & prototypes with Arduino
-
----
-
-## 🚀 Featured Projects
-> _(Replace repo links with your actual repos)_
-
-- **[ProjectName1](https://github.com/YourGitHub/ProjectName1)** — Short 1-line description.
-- **[Resume Maker](https://github.com/YourGitHub/free-resume-maker)** — Forked / customized resume builder.
-- **[YouTube Player](https://github.com/YourGitHub/youtube-player)** — Custom player UI + features.
-- **[SlideXpert](https://github.com/YourGitHub/SlideXpert)** — AI-powered PPT generator (nextjs).
-
----
-
-## 📈 GitHub Stats
-
-<!-- GitHub Readme Stats (replace `YourGitHub` with your username) -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHub&show_icons=true&theme=dark&hide_border=true" alt="Swed's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHub&layout=compact&theme=dark&hide_border=true" alt="Top languages"/>
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 💬 Let's Connect
-- GitHub — `https://github.com/YourGitHub`  
-- Twitter — `https://twitter.com/your_twitter`  
-- LinkedIn — `https://linkedin.com/in/your_linkedin`  
-- Email — `you@domain.com`
+## 🚀 Tech Stack
 
----
-
-## 🧾 Notes for setup
-1. Replace `YourGitHub` in the GitHub Stats image URLs with your actual GitHub username.  
-2. Replace the social links and email placeholders.  
-3. If you want your profile picture to show from your repo instead of GitHub avatar use:
-   `![profile](/mnt/data/cd3a5d06-14d9-4d59-9808-778a0c39cd14.png)` — (local file path you uploaded).
-4. To host the header via GitHub raw link later: upload the banner to the repo (e.g., `assets/header.png`) and update the top image path to `/assets/header.png`.
-
----
-
-## 🧨 Bonus: quick CSS-like centered banner trick
-If the header looks too large on mobile, wrap it in a centered HTML block in your README (GitHub supports basic HTML):
-
-```html
 <p align="center">
-  <img src="/mnt/data/0719dffe-b49b-4773-8c56-3b26fad33594.png" width="100%" alt="header"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,cpp,python,java,firebase,aws,arduino,git,github,react,nodejs,mongodb,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourGitHub&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHub&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- Founder of **Crafta**
+- Building full-stack products with a Shonen mindset 🔥  
+- Passionate about systems, automation & web apps  
+- Work ethic: **"Train like Tanjiro, Build like Gojo."**
+
+---
+
+## 📌 Featured Projects
+
+- 🔥 **Crafta Tools** – your product list  
+- ⚡ **Resume Maker** – your forked version  
+- 🎯 **AI PPT Builder** – SlideXpert  
+- 🎵 **YouTube Player** – Custom UI player  
+
+---
+
+<p align="center">
+  <b>⚡ Thanks for visiting — The journey continues.</b>
 </p>
